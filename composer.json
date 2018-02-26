@@ -1,5 +1,5 @@
 {
-  "name": "JSL/wc-product-bundles",
+  "name": "wc-product-bundles",
   "type": "wordpress-plugin",
   "require": {
     "composer/installers": "v1.0.6"
